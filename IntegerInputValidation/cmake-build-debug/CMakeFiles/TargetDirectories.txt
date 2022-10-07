@@ -1,3 +1,0 @@
-C:/Users/carnaz/CLionProjects/ValidacaoEntrada/cmake-build-debug/CMakeFiles/ValidacaoEntrada.dir
-C:/Users/carnaz/CLionProjects/ValidacaoEntrada/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/carnaz/CLionProjects/ValidacaoEntrada/cmake-build-debug/CMakeFiles/rebuild_cache.dir
