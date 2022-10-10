@@ -8,4 +8,4 @@ Algumas notas a ter em conta antes de usar este repositório:
         - estou cansado de simbolos num ecran negro, ...
 * não substitui as aulas teóricas e práticas
 
-e fica um apelo :) https://www.youtube.com/watch?v=49XCLA0qW6Q
+e fica uma dica :) https://www.youtube.com/watch?v=49XCLA0qW6Q
