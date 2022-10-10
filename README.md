@@ -1,7 +1,7 @@
 # AulasPraticas_POO_GC
 
 Algumas notas a ter em conta antes de usar este repositório:
-* Este repositório serve de suporte às aulas práticas de POO, preencher os "espaços", devido a multiplas: 
+* Este repositório serve de suporte às aulas práticas de POO, preencher os "espaços", devido a multiplas razões: 
         - não ouvi o professor, 
         - estou cansado da noite anterior, 
         - o professor fala numa lingua diferente da minha, 
