@@ -1,0 +1,4 @@
+C:\Users\gonca\OneDrive\the War Room\ISEC_POO\FichasTrabalho\Ficha03\Ficha03_ConstExample\Debug\Ficha03_ConstExample.exe
+C:\Users\gonca\OneDrive\the War Room\ISEC_POO\FichasTrabalho\Ficha03\Ficha03_ConstExample\Debug\Ficha03_ConstExample.pdb
+D:\GitPlace\POO_ISEC_P1\Ficha03_ConstExample\Debug\Ficha03_ConstExample.exe
+D:\GitPlace\POO_ISEC_P1\Ficha03_ConstExample\Debug\Ficha03_ConstExample.pdb

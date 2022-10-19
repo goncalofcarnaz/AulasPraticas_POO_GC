@@ -1,0 +1,2 @@
+C:\Users\gonca\OneDrive\the War Room\ISEC_POO\FichasTrabalho\Ficha03\FicheiroStringStream\Debug\FicheiroStringStream.exe
+C:\Users\gonca\OneDrive\the War Room\ISEC_POO\FichasTrabalho\Ficha03\FicheiroStringStream\Debug\FicheiroStringStream.pdb
