@@ -2,16 +2,16 @@
 #include <iostream>
 using namespace std;
 
-Car::Car()
+
+
+void Car::liga()
 {
-    cout << "Vamos ligar o carro." << endl;
+    cout << " vai ligar o carro." << endl;
     myEng = new Engine();
 }
 
-Car::~Car()
+void Car::desliga()
 {
+    cout << " desligou o carro." << endl;
     delete myEng;
-    cout << "Carro desligado." << endl;
 }
-
-
