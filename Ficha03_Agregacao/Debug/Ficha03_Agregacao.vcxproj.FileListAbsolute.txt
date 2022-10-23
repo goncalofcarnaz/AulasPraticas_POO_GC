@@ -1,0 +1,3 @@
+C:\Users\gonca\OneDrive\the War Room\ISEC_POO\FichasTrabalho\Ficha03\Ficha03_Agregacao\Debug\Ficha03_Agregacao.exe
+C:\Users\gonca\OneDrive\the War Room\ISEC_POO\FichasTrabalho\Ficha03\Ficha03_Agregacao\Debug\Ficha03_Agregacao.pdb
+C:\Users\gonca\OneDrive\002_the Current_Year\ISEC_2223\POO\Fontes\POO_1Semestre\FichasTrabalho\Ficha03\Ficha03_Agregacao\Debug\Ficha03_Agregacao.exe
