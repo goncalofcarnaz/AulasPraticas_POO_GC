@@ -13,7 +13,7 @@ public:
     int id;
     static int contador;
     Car();
-    ~Car();
+    //~Car();
     void liga();
     void desliga();
   

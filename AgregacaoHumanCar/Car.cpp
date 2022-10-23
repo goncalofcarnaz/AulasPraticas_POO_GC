@@ -5,23 +5,23 @@ using namespace std;
 
 Car::Car()
 {
-    cout << "Construtor Car : Carro Construido !!!" << endl;
+    //cout << "Construtor Car : Carro Construido !!!" << endl;
 }
 
-Car::~Car()
-{
-    cout << "Construtor Car : Carro Destruido !!!" << endl;
-}
+//Car::~Car()
+//{
+//    cout << "Construtor Car : Carro Destruido !!!" << endl;
+//}
 
 
 void Car::liga()
 {
-    cout << "Metodo Liga() : Vai ligar o carro."<<endl;
+    cout << "Vai ligar o carro."<<endl;
     myEng = new Engine();
 }
 
 void Car::desliga()
 {
-    cout <<"Metodo desliga() : Desligou o carro." << endl;
+    cout <<"Desligou o carro." << endl;
     delete myEng;
 }

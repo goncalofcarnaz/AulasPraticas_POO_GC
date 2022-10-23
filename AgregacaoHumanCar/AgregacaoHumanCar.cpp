@@ -11,8 +11,14 @@ int main()
     Car car;
   
 
-    Human* h2 = new Human("Bruce Dickinson", car);
+    Human* h1 = new Human("Bruce Dickinson", car);
+    delete h1;
+
+    cout << endl;
+
+    Human* h2 = new Human("Eddie", car);
     delete h2;
+
 
     return 0;
 }
