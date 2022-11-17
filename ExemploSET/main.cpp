@@ -1,6 +1,8 @@
 #include <iostream>
 #include<set>
 #include <iterator>
+#include <algorithm>
+
 
 using namespace std;
 
@@ -35,6 +37,31 @@ int main() {
     {
         cout<<" "<<*it;
     }
+
+    // Displaying set elements
+    cout << endl;
+    cout << ">> Show all elements of SET -- Another form" << endl ;
+    set<int>::iterator itr;
+    for (itr = numeros.begin();
+         itr != numeros.end(); itr++)
+    {
+        cout << *itr << " ";
+    }
+
+
+    /**
+     * Include -->  #include <algorithm>
+     * for_each();
+     */
+    cout << endl;
+    // lambda Expressions ::
+    auto print = [](const int& n) { std::cout << " " << n; };
+    std::cout << "Before:";
+    std::for_each(numeros.cbegin(), numeros.cend(), print);
+    std::cout << '\n';
+
+    
+
     /**
     * Verificar se o SET é vazio
     */

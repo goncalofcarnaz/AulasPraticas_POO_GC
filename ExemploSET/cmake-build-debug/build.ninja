@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = C$:/Users/gonca/OneDrive/000_theCurrentYear/DEIS_ISEC2022_2023/POO/CodigoAulas/ExemploSET/cmake-build-debug/
+cmake_ninja_workdir = C$:/Users/gonca/OneDrive/Documentos/GitHub/AulasPraticas_POO_GC/ExemploSET/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target ExemploSET
 
@@ -49,7 +49,7 @@ cmake_ninja_workdir = C$:/Users/gonca/OneDrive/000_theCurrentYear/DEIS_ISEC2022_
 
 build cmake_object_order_depends_target_ExemploSET: phony || CMakeFiles/ExemploSET.dir
 
-build CMakeFiles/ExemploSET.dir/main.cpp.obj: CXX_COMPILER__ExemploSET_Debug C$:/Users/gonca/OneDrive/000_theCurrentYear/DEIS_ISEC2022_2023/POO/CodigoAulas/ExemploSET/main.cpp || cmake_object_order_depends_target_ExemploSET
+build CMakeFiles/ExemploSET.dir/main.cpp.obj: CXX_COMPILER__ExemploSET_Debug C$:/Users/gonca/OneDrive/Documentos/GitHub/AulasPraticas_POO_GC/ExemploSET/main.cpp || cmake_object_order_depends_target_ExemploSET
   DEP_FILE = CMakeFiles\ExemploSET.dir\main.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\ExemploSET.dir
@@ -81,7 +81,7 @@ build ExemploSET.exe: CXX_EXECUTABLE_LINKER__ExemploSET_Debug CMakeFiles/Exemplo
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\gonca\OneDrive\000_theCurrentYear\DEIS_ISEC2022_2023\POO\CodigoAulas\ExemploSET\cmake-build-debug && "D:\InstallApps\CLion\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D C:\Users\gonca\OneDrive\Documentos\GitHub\AulasPraticas_POO_GC\ExemploSET\cmake-build-debug && "D:\InstallApps\CLion\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -92,7 +92,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\gonca\OneDrive\000_theCurrentYear\DEIS_ISEC2022_2023\POO\CodigoAulas\ExemploSET\cmake-build-debug && "D:\InstallApps\CLion\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SC:\Users\gonca\OneDrive\000_theCurrentYear\DEIS_ISEC2022_2023\POO\CodigoAulas\ExemploSET -BC:\Users\gonca\OneDrive\000_theCurrentYear\DEIS_ISEC2022_2023\POO\CodigoAulas\ExemploSET\cmake-build-debug"
+  COMMAND = cmd.exe /C "cd /D C:\Users\gonca\OneDrive\Documentos\GitHub\AulasPraticas_POO_GC\ExemploSET\cmake-build-debug && "D:\InstallApps\CLion\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SC:\Users\gonca\OneDrive\Documentos\GitHub\AulasPraticas_POO_GC\ExemploSET -BC:\Users\gonca\OneDrive\Documentos\GitHub\AulasPraticas_POO_GC\ExemploSET\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -110,7 +110,7 @@ build ExemploSET: phony ExemploSET.exe
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/gonca/OneDrive/000_theCurrentYear/DEIS_ISEC2022_2023/POO/CodigoAulas/ExemploSET/cmake-build-debug
+# Folder: C:/Users/gonca/OneDrive/Documentos/GitHub/AulasPraticas_POO_GC/ExemploSET/cmake-build-debug
 
 build all: phony ExemploSET.exe
 

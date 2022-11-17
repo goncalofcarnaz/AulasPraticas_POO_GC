@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/gonca/OneDrive/000_theCurrentYear/DEIS_ISEC2022_2023/POO/CodigoAulas/ExemploSET
+# Install script for directory: C:/Users/gonca/OneDrive/Documentos/GitHub/AulasPraticas_POO_GC/ExemploSET
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/gonca/OneDrive/000_theCurrentYear/DEIS_ISEC2022_2023/POO/CodigoAulas/ExemploSET/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/gonca/OneDrive/Documentos/GitHub/AulasPraticas_POO_GC/ExemploSET/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

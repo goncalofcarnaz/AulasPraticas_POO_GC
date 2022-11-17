@@ -45,7 +45,7 @@ int main()
     if (mapCars.find("Dodge Challenge") != mapCars.end())
         cout << "palavra 'Dodge Challenge' encontrada!" << endl;
     if (mapCars.find("Renault") == mapCars.end())
-        cout << "palavra 'Renault' n�o encontrada!" << endl;
+        cout << "palavra 'Renault' não encontrada!" << endl;
     return 0;
 }
 
