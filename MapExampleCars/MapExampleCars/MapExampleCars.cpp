@@ -18,14 +18,14 @@ int main()
     mapCars["Ford Mustang"] = 4;
     mapCars["AAA"] = 5;
     mapCars["B"] = 7;
-    map<string, int>::iterator it = mapCars.begin();
 
+    map<string, int>::iterator it = mapCars.begin();
     while (it != mapCars.end())
     {
         cout << it->first << " :: " << it->second << endl;
         it++;
     }
-    // Check if insertion is successful or not
+    
     if (mapCars.insert(make_pair("Ford Mustang", 3)).second == false)
     {
         cout << "O Elemento com a chave 'Ford Mustang' nao foi inserida porque ja existe!" << endl;
@@ -45,7 +45,7 @@ int main()
     if (mapCars.find("Dodge Challenge") != mapCars.end())
         cout << "palavra 'Dodge Challenge' encontrada!" << endl;
     if (mapCars.find("Renault") == mapCars.end())
-        cout << "palavra 'Renault' não encontrada!" << endl;
+        cout << "palavra 'Renault' nï¿½o encontrada!" << endl;
     return 0;
 }
 
