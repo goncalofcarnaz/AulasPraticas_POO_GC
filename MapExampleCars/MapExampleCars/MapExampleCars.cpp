@@ -41,7 +41,7 @@ int main()
         }
 
     }
-    // Searching element in std::map by key.
+    
     if (mapCars.find("Dodge Challenge") != mapCars.end())
         cout << "palavra 'Dodge Challenge' encontrada!" << endl;
     if (mapCars.find("Renault") == mapCars.end())
