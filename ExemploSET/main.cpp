@@ -60,7 +60,7 @@ int main() {
     std::for_each(numeros.cbegin(), numeros.cend(), print);
     std::cout << '\n';
 
-    
+
 
     /**
     * Verificar se o SET é vazio
