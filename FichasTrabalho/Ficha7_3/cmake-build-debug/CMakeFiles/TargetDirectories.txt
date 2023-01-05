@@ -1,0 +1,3 @@
+C:/Users/gonca/OneDrive/000_theCurrentYear/DEIS_ISEC2022_2023/POO/FichasTrabalho/Ficha07/ft_7_3/ft_7_3/cmake-build-debug/CMakeFiles/ft_7_3.dir
+C:/Users/gonca/OneDrive/000_theCurrentYear/DEIS_ISEC2022_2023/POO/FichasTrabalho/Ficha07/ft_7_3/ft_7_3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gonca/OneDrive/000_theCurrentYear/DEIS_ISEC2022_2023/POO/FichasTrabalho/Ficha07/ft_7_3/ft_7_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

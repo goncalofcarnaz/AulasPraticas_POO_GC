@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ft_7_3",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ft_7_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ft_7_3-Debug-bd47fa0f9a5340ff2c17.json",
+					"name" : "ft_7_3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gonca/OneDrive/000_theCurrentYear/DEIS_ISEC2022_2023/POO/FichasTrabalho/Ficha07/ft_7_3/ft_7_3/cmake-build-debug",
+		"source" : "C:/Users/gonca/OneDrive/000_theCurrentYear/DEIS_ISEC2022_2023/POO/FichasTrabalho/Ficha07/ft_7_3/ft_7_3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
